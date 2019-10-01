@@ -1,2 +1,4 @@
 # monokaynBot
-Learning how to create a bot in discord
+Learning how to create a bot in discord.
+
+Teacher: Julio Fortunato
